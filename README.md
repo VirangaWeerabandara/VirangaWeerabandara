@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Your Name]
+# Hi there! 👋 I'm Viranga
 
 ## 🚀 About Me
 I'm a passionate **Software Developer** who loves building innovative solutions. I specialize in **web development, mobile apps, AI/ML, and backend systems**. Always eager to learn new technologies and contribute to open-source projects!
