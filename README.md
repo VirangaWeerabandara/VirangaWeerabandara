@@ -1,6 +1,10 @@
 ### Hi there, I'm Viranga! 👋
 
-I'm a passionate software developer and AI enthusiast with experience in **Full-Stack Development, Machine Learning, and Competitive Programming**. I love building innovative solutions and solving complex problems. 🚀
+I'm a software developer and AI enthusiast who thrives on building creative solutions and tackling tough challenges.  
+
+With experience in **Full-Stack Development, Machine Learning, and Competitive Programming**, I enjoy turning ideas into reality—whether it's crafting seamless applications, training intelligent models, or optimizing algorithms.  
+
+Always curious and driven, I love pushing the boundaries of what's possible in tech. 🚀  
 
 ---
 
