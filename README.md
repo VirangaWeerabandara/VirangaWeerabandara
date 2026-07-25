@@ -9,10 +9,9 @@ Always curious and driven, I love pushing the boundaries of what's possible in t
 ---
 
 ### 🔥 About Me
-- 🎓 **Computer Engineering Undergraduate** at the University of Ruhuna
-- 📚 Currently working on **Deepfake Detection, Inventory Forecasting, and Real-time Train Tracking**
+- 🎓 **Computer Engineering Undergraduate** at the University of Ruhuna specialized in **Software Engineering & AI/ML**
 - 🎮 Interested in **Competitive Programming**
-- 💡 Open to collaborating on **Software Development & AI/ML Projects**
+- 💡 Open to collaborating on **Software Engineering & AI/ML Projects**
 
 ---
 
